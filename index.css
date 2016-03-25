@@ -1,0 +1,32 @@
+#loginForm {
+	width: 40%;
+	margin: auto;
+}
+
+#signupForm {
+	width: 40%;
+	margin: auto;
+}
+
+body {
+
+	background-color: lightblue;
+
+}
+
+.aligned-title {
+	margin: 0 auto;
+}
+
+.middlePanel {
+
+	margin: 0 auto;
+	width: 25%;
+}
+
+.centeredButton {
+
+	margin: 0 auto;
+	width: 90%;
+
+}
